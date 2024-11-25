@@ -31,7 +31,6 @@ Future Improvements
 Real-time Notifications: Notify users of new carpool opportunities and ride updates.
 Google Maps API: Add map visualization for ride routes.
 Admin Panel: Implement an admin dashboard for managing users and rides.
-This description is concise, informative, and well-suited for a GitHub README file. It highlights the key features, technologies, and instructions on how to set up and use the Carpooling System. Adjust any specific project details as necessary.
 
 
 
